@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CurrentGpsLocation</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZmFpc2FhbHJlaG1hbiIsImEiOiJjbGNwcmIxODgyOWVrM29tdDhsY2gwNmJqIn0.ce3IRcEJhXNe251etQivyQ</string>
+
+</resources>
